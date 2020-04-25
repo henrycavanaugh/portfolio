@@ -1,2 +1,1 @@
-##Introduction to Archaeology Portfolio##
-#Henry Cavanaugh#
+This repository hosts the source for the website at: https://henrycavanaugh.github.io/portfolio/
