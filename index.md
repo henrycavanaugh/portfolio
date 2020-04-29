@@ -1,5 +1,5 @@
 #Video#
-[![YouTube](https://www.youtube.com/watch?v=dQw4w9WgXcQ)]
+[![YouTube](https://cdn.pixabay.com/photo/2016/06/29/16/53/click-here-button-1487274_960_720.png)](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 
 #Scala Programs#
 
