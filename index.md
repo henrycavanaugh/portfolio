@@ -1,4 +1,5 @@
-# Henry Cavanaugh's Introduction to Archaeology Portfolio ##
+# Henry Cavanaugh's #
+# Introduction to Archaeology Portfolio #
 ### The College of The Holy Cross ###
 Worcester, MA
 
