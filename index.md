@@ -17,6 +17,6 @@ Frequency List Program on MyBinder:
 Spark LDA Modeling Program on MyBinder:
 [![Binder](https://mybinder.org/badge_logo.svg)](https://nbviewer.jupyter.org/github/henrycavanaugh/portfolio/blob/master/Spark%20Modeling%20%2820-topic%29.ipynb)
 
-<* Acknowledgements *>
+< *Acknowledgements* >
 *I want to thank Professor Neel Smith for helping me develop and apply these programs, and for introducing me to the fascinating world of archaeology*
 *Also thank you to OCRE ![OCRE](http://numismatics.org/ocre/) for providing the data that made this possible*
