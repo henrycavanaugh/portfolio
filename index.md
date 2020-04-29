@@ -1,14 +1,14 @@
 # Henry Cavanaugh's Introduction to Archaeology Portfolio ##
-## The College of The Holy Cross ##
+### The College of The Holy Cross ###
 Worcester, MA
 
 
 
 
-# Video #
+## Video ##
 [![YouTube](https://arcolinux.com/wp-content/uploads/2019/12/youtube-logo.png)](https://www.youtube.com/watch?v=_t1wL-N-J0s)
 
-# Scala Programs #
+## Scala Programs ##
 
 Frequency List Program on GitHub:
 [![Binder](https://mybinder.org/badge_logo.svg)](https://nbviewer.jupyter.org/github/henrycavanaugh/portfolio/blob/master/AuthorityFrequencyListed.ipynb)
