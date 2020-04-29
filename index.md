@@ -1,4 +1,4 @@
-# # Welcome to my Intro-Archaeology Portfolio # #
+## Welcome to my Intro-Archaeology Portfolio ##
 
 
 # Video #
