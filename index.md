@@ -20,7 +20,7 @@ Spark LDA Modeling Program on MyBinder:
 
 
 
-
+...
 
 *I want to thank Professor Neel Smith for helping me develop and apply these programs, and for introducing me to the fascinating world of archaeology*
-*Also thank you to [![OCRE](OCRE)](http://numismatics.org/ocre/) for providing the data that made this possible*
+*Also thank you to [(OCRE)](http://numismatics.org/ocre/) for providing the dataset that made this project possible*
