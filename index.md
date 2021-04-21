@@ -1,4 +1,4 @@
-# Henry Cavanaugh's                             Introduction to Archaeology Portfolio #
+# Henry Cavanaugh's                             Archaeological Data Analysis Portfolio #
 ### The College of The Holy Cross ###
 Worcester, MA
 
